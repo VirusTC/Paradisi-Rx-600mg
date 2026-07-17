@@ -49,15 +49,27 @@ If you require pure USP-grade citric acid for medical or manufacturing purposes,
 Are you hoping to use a USP-grade powder alongside a lycopene supplement, or are you looking to design a whole-food nutritional plan? Let me know your target health goal so I can provide more specific data!
 
 [1] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6097542/)
+
 [2] [https://elchemy.com](https://elchemy.com/blogs/chemical-market/citric-acid-in-supplements-helps-your-body-absorb-more-nutrients)
+
 [3] [https://www.laballey.com](https://www.laballey.com/blog/types-of-citric-acid)
+
 [4] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC4265710/)
+
 [5] [https://kidneystones.uchicago.edu](https://kidneystones.uchicago.edu/2014/11/22/citrate-to-prevent-stones/)
+
 [6] [https://alliancechemical.com](https://alliancechemical.com/blogs/articles/citric-acid-beyond-the-citrus-zest)
+
 [7] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/27006221/)
+
 [8] [https://pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41693673/)
+
 [9] [https://www.mdpi.com](https://www.mdpi.com/2311-7524/11/6/598)
+
 [10] [https://www.mdpi.com](https://www.mdpi.com/2076-3921/10/3/342)
+
 [12] [https://www.sciencedirect.com](https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780128190968000458)
+
 [13] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10105081/)
+
 [14] [https://www.sciencedirect.com](https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780323897792000090)
