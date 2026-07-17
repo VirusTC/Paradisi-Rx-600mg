@@ -3,10 +3,8 @@
 ## 1. Clinical Mechanisms of USP-Grade Citric Acid
 Regardless of the botanical origin, pure USP-grade citric acid functions via two main therapeutic pathways:
 
-* 
 * Urinary Chelation (Kidney Stone Prevention): Citrate molecules bind directly to urinary calcium, creating a highly soluble calcium-citrate complex. This lowers the urinary saturation of calcium oxalate, inhibiting the crystallization, aggregation, and growth of kidney stones. [4, 5] 
 * Enhanced Nutrient Absorption (Bioavailability): Citric acid lowers gastric pH, creating a highly localized acidic environment in the intestines. This shifts minerals (like magnesium, zinc, and iron) into their highly soluble, ionized forms, significantly boosting their absorption rate through the gut wall. [2, 6] 
-* 
 
 ------------------------------
 ## 2. Clinical Mechanisms Across Grapefruit Cultivars
@@ -18,24 +16,18 @@ When looking at whole fruits rather than synthetic isolates, the presence of lyc
 
 ## White / Yellow Grapefruit Varieties (Duncan, Marsh)
 
-* 
 * The Matrix: High concentrations of pure citric acid; zero lycopene.
 * Clinical Mechanism: These varieties provide the strongest calcium-binding capacity. Because they lack lycopene, their clinical action is entirely focused on max-potency urinary chelation and maximizing the bioavailability of co-ingested ionic minerals. [2, 4, 5, 7] 
-* 
 
 ## Pink Grapefruit Varieties (Marsh Pink, Foster)
 
-* 
 * The Matrix: Moderate citric acid; low-to-moderate lycopene.
 * Clinical Mechanism: These offer a balanced, hybrid mechanism. They trigger a mild dose of kidney-stone inhibition while introducing a baseline level of lipid-soluble antioxidants into the systemic circulation. [7, 8] 
-* 
 
 ## Red Grapefruit Varieties (Ruby Red, Rio Red, Star Ruby)
 
-* 
 * The Matrix: Lower overall citric acid (due to the presence of CpNADP-IDH1 genes which break down citric acid as the fruit matures) and very high lycopene concentrations. [8, 9] 
 * Clinical Mechanism: This matrix triggers a highly specific Nutrient Synergy. Lycopene is a lipophilic (fat-soluble) antioxidant that requires a stabilized environment to survive digestion. The citric acid in red grapefruit acts as an antioxidant stabilizer, scavenging free radicals that would otherwise degrade lycopene in the gut. This enhances the formation of lipid micelles, leading to superior systemic absorption of lycopene to reduce cardiovascular oxidative stress. [10, 12, 13, 14] 
-* 
 
 ------------------------------
 ## Summary for Clinical Application
