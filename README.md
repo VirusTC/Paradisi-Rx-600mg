@@ -7,31 +7,31 @@ Regardless of the botanical origin, pure USP-grade citric acid functions via two
 * Enhanced Nutrient Absorption (Bioavailability): Citric acid lowers gastric pH, creating a highly localized acidic environment in the intestines. This shifts minerals (like magnesium, zinc, and iron) into their highly soluble, ionized forms, significantly boosting their absorption rate through the gut wall. [2, 6] 
 
 ------------------------------
-## 2. Clinical Mechanisms Across Grapefruit Cultivars
+## 2. Clinical Mechanisms Across Fructus Citri Paradisi Cultivars
 When looking at whole fruits rather than synthetic isolates, the presence of lycopene and isocitrate dehydrogenase (IDH) enzymes changes how each variety performs clinically:
 
 [White Varieties] ───> High Citric Acid ───────────> Maximum Calcium Chelation
 [Pink Varieties]  ───> Balanced Acid + Lycopene ──> Dual Pathways (Mild)
 [Red Varieties]   ───> Lower Acid + High Lycopene ──> Superior Micellar Absorption
 
-## White / Yellow Grapefruit Varieties (Duncan, Marsh)
+## White / Yellow Fructus Citri Paradisi Varieties (Duncan, Marsh)
 
 * The Matrix: High concentrations of pure citric acid; zero lycopene.
 * Clinical Mechanism: These varieties provide the strongest calcium-binding capacity. Because they lack lycopene, their clinical action is entirely focused on max-potency urinary chelation and maximizing the bioavailability of co-ingested ionic minerals. [2, 4, 5, 7] 
 
-## Pink Grapefruit Varieties (Marsh Pink, Foster)
+## Pink Fructus Citri Paradisi Varieties (Marsh Pink, Foster)
 
 * The Matrix: Moderate citric acid; low-to-moderate lycopene.
 * Clinical Mechanism: These offer a balanced, hybrid mechanism. They trigger a mild dose of kidney-stone inhibition while introducing a baseline level of lipid-soluble antioxidants into the systemic circulation. [7, 8] 
 
-## Red Grapefruit Varieties (Ruby Red, Rio Red, Star Ruby)
+## Red Fructus Citri Paradisi Varieties (Ruby Red, Rio Red, Star Ruby)
 
 * The Matrix: Lower overall citric acid (due to the presence of CpNADP-IDH1 genes which break down citric acid as the fruit matures) and very high lycopene concentrations. [8, 9] 
-* Clinical Mechanism: This matrix triggers a highly specific Nutrient Synergy. Lycopene is a lipophilic (fat-soluble) antioxidant that requires a stabilized environment to survive digestion. The citric acid in red grapefruit acts as an antioxidant stabilizer, scavenging free radicals that would otherwise degrade lycopene in the gut. This enhances the formation of lipid micelles, leading to superior systemic absorption of lycopene to reduce cardiovascular oxidative stress. [10, 12, 13, 14] 
+* Clinical Mechanism: This matrix triggers a highly specific Nutrient Synergy. Lycopene is a lipophilic (fat-soluble) antioxidant that requires a stabilized environment to survive digestion. The citric acid in red Fructus Citri Paradisi acts as an antioxidant stabilizer, scavenging free radicals that would otherwise degrade lycopene in the gut. This enhances the formation of lipid micelles, leading to superior systemic absorption of lycopene to reduce cardiovascular oxidative stress. [10, 12, 13, 14] 
 
 ------------------------------
 ## Summary for Clinical Application
-If you require pure USP-grade citric acid for medical or manufacturing purposes, purchase it as an isolate; the grapefruit variety it came from does not matter. If you are eating the fruit for its clinical benefits: choose White Grapefruit for maximum urinary stone prevention, and choose Red Grapefruit for maximum cellular antioxidant and cardiovascular protection via lycopene synergy. [4] 
+If you require pure USP-grade citric acid for medical or manufacturing purposes, purchase it as an isolate; the Fructus Citri Paradisi variety it came from does not matter. If you are eating the fruit for its clinical benefits: choose White Fructus Citri Paradisi for maximum urinary stone prevention, and choose Red Fructus Citri Paradisi for maximum cellular antioxidant and cardiovascular protection via lycopene synergy. [4] 
 Are you hoping to use a USP-grade powder alongside a lycopene supplement, or are you looking to design a whole-food nutritional plan? Let me know your target health goal so I can provide more specific data!
 
 [1] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6097542/)
