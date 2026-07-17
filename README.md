@@ -1,11 +1,5 @@
 # Paradisi-Rx
 
-The terms USP Grade Citric Acid and Lycopene represent distinct chemical compounds.
-USP Grade Citric Acid is a highly purified, single chemical isolate manufactured in a laboratory to meet United States Pharmacopeia standards. Because it is a pure chemical isolate, there are no clinical differences in its mechanism based on the variety of grapefruit it theoretically came from. Whether extracted from white, pink, or red grapefruit, pure USP citric acid interacts with your body identically. [1, 2, 3] 
-
-However, when consuming the whole grapefruit varieties, the clinical mechanisms differ radically because lycopene acts as a clinical synergist alongside citric acid.
-------------------------------
-
 ## 1. Clinical Mechanisms of USP-Grade Citric Acid
 Regardless of the botanical origin, pure USP-grade citric acid functions via two main therapeutic pathways:
 
